@@ -56,5 +56,4 @@ To enable stakeholders to monitor claims frequency and severity across different
 - **Actionable Feedback:** Established a framework to link **customer sentiment** directly to operational outcomes, driving targeted improvements in service or policy structure.
 
 ## 5. View Project
-- **Live Interactive Dashboard:** [Insert Your NovyPro or Tableau Public Link HERE]
 - **Source File:** InsuranceDataPBI.pbix (Available in this repository)
