@@ -3,6 +3,35 @@
 ## 1. Overview
 Developed a comprehensive Power BI dashboard to analyze the core insurance lifecycle metrics (Policy, Premium, Claims) and integrate them with customer feedback data. The goal was to provide a holistic view of portfolio performance and customer satisfaction drivers.
 
+## 🖼️ Policy and Risk Overview
+This primary view provides an executive summary of the firm's exposure and volume. Key metrics displayed include **Total Coverage Amount**, **Policy Count**, and **Average Premium**, allowing management to quickly assess portfolio health and growth.
+
+**
+
+[Image of Insurance Policy Overview]
+**
+![Insurance Policy Overview](insurance_policy_overview.png)
+
+## 2. Claims Analysis and Data Integrity
+Claims processing requires absolute data fidelity. This section validates the underlying data model, linking claims, policy details, and payments.
+
+* **Key Skill Highlight:** Demonstration of clean data structure, successful ETL, and the implementation of complex SQL/DAX to resolve data lineage issues.
+* **Key Metrics Tracked:** **Claims Ratio** and **Loss Ratio** by policy type and region.
+
+****
+![Data Table View](insurance_policy_data-table-view.png)
+
+## 3. Customer Satisfaction and Future Risk
+This unique section correlates claims experience with customer feedback scores. The goal is to proactively identify policy types and regions where low satisfaction may indicate future claim risk or high churn potential.
+
+* Analyzes sentiment trends based on claims settlement speed and outcome.
+* Identifies segments for targeted retention efforts.
+
+****
+![Customer Feedback Analysis](insurance_policy_feedback-analysis.png)
+
+---
+
 ### 🎯 Goal
 To enable stakeholders to monitor claims frequency and severity across different policy types and regions, identifying high-risk segments and linking policy performance to customer sentiment.
 
